@@ -1,0 +1,1 @@
+Untuk tensorflow nya saya pake yang versi 2.15.0 karena untuk versi terbaru itu ada bug pada saat konversi model tflite. Notebook nya tiba-tiba crash pada saat konversi jika menggunakan tensorflow yang terbaru (2.17.0)
